@@ -1,0 +1,19 @@
+package contacts;
+
+enum MessageType {
+
+    MAIN_MENU,
+    SEARCH_MENU,
+    LIST_MENU,
+    TYPE,
+    EMPTY_PHONEBOOK,
+    RECORD_MENU,
+    SEARCH_QUERY,
+    CREATED,
+    DELETED,
+    SAVED,
+    CONTACT_NUMBER,
+    CONTACT_BIRTHDATE,
+    CONTACT_GENDER
+
+}
